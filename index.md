@@ -1,7 +1,14 @@
 
 ![Image](https://github.com/Samdopika/cse15l-lab-reports/blob/main/Saman%20Khadivar%20Portrait.jpg?raw=true)
 
-**Saman Khadivar**
+My rule when i'm not working:
+> Dolce Far Niente
+
+My favourite line of code is `break`
+My favourite color is `#000080`
+# Saman Khadivar
+## CEO of [SullDog](https://www.sulldog.com/)
+### Co-Founder of Digital Connec
 ============
 <a href="https://www.linkedin.com/in/saman-khadivar-60a5031ab" target="_blank" rel="noopener noreferrer"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" width="30" height="" alt="30"></a>
 <a href="https://www.instagram.com/samkhadivar/?hl=en" target="_blank" rel="noopener noreferrer"><img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" width="30" height="" alt="30"></a>
@@ -25,7 +32,7 @@ I am always eager to learn and stay up-to-date with the latest industry trends, 
 **Experience**
 ---
 ***
-**Search Engine Optimization Specialist** | Rising Tide Partners
+**Search Engine Optimization Specialist** | Rising Tide Partners 
 *  Conduct keyword research and analysis to identify target keywords and phrases.
 * Develop and implement on-page and off-page SEO strategies to improve website rankings and organic traffic.
 to one product to develop.
@@ -76,7 +83,7 @@ and Books. ([Link to the Project](https://drive.google.com/file/d/1l3b8EgaEt54ss
 
 
 
-Technical Skills
+Technical Skills 
 ---
 ***
 
@@ -84,3 +91,10 @@ Technical Skills
 * **Machine Learning and AI** :  Deep Learning, Convex Optimization, Discrete Math, and probability
 * **Computer Science** :  Agile Development, Data Structure and Algorithms, Web Development, Operating System, 
 Embedded Firmware Development
+
+
+
+
+
+- [ ] #739
+- [ ] Add delight to the experience when all tasks are complete
